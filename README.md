@@ -48,10 +48,11 @@ O projeto simula uma análise comercial completa, desde a organização dos dado
 
 Praticar o processo de análise de dados: estruturar uma base, criar métricas, desenvolver um dashboard e transformar dados em insights de negócio.
 
+## Dados
+
+[📊 Baixar base de dados](dados_cafe_aurora.xlsx)
+
 ## Autor
 
 **Luiz Othávio** — Estudante de Engenharia de Software com foco em Análise de Dados e Business Intelligence.
 
-Autor
-
-Luiz Othávio — Estudante de Engenharia de Software com foco em Análise de Dados e Business Intelligence.
