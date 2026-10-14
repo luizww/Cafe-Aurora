@@ -9,7 +9,7 @@ Dashboard de Business Intelligence desenvolvido no Looker Studio para analisar f
 
 ## Sobre o projeto
 
-O projeto simula uma análise comercial completa, desde a organização dos dados até a criação de indicadores para apoiar decisões de negócio.
+Projeto de estudo com dados de uma cafeteria fictícia. A prática envolve organizar uma base e criar indicadores e visualizações no Looker Studio. Os resultados apresentados são da simulação, sem vínculo com uma empresa real.
 
 ## Indicadores principais
 
