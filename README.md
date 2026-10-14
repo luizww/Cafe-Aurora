@@ -1,4 +1,6 @@
-# Café Aurora ☕
+<h1 align="center">☕ Café Aurora</h1>
+<p align="center">Dashboard de uma cafeteria fictícia · dados, indicadores e descobertas</p>
+
 Dashboard de Business Intelligence desenvolvido no Looker Studio para analisar faturamento, produtos, clientes, lucro e oportunidades de melhoria de uma cafeteria fictícia.
 
 ## Dashboard
@@ -50,9 +52,9 @@ Praticar o processo de análise de dados: estruturar uma base, criar métricas, 
 
 ## Dados
 
-[📊 Baixar base de dados](dados_cafe_aurora.xlsx)
+[📊 Baixar base de dados](dados/dados_cafe_aurora.xlsx)
 
 ## Autor
 
-**Luiz Othávio** — Estudante de Engenharia de Software com foco em Análise de Dados e Business Intelligence.
+Desenvolvido por [Luiz Othávio](https://github.com/luizww), estudante de Engenharia de Software.
 
